@@ -1,3 +1,6 @@
+# TODO: add docstrings
+# TODO: reformat code using Python Convention
+
 # O(1)
 def sum_up_to(n: int):
     print(n * (n + 1) // 2)

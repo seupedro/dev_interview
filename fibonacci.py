@@ -1,3 +1,5 @@
+# TODO: add docstrings
+# TODO: reformat code using Python Convention
 
 def fib(n):
     a, b = 0, 1
